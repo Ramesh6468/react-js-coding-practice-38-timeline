@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.image1 {
+    height : 300px;
+}
+.projectContainer {
+    display : flex;
+    flex-direction : column;
+    justify-content : center;
+}
+.cardContaainer {
+    display : flex;
+    justify-content : space-between;
+}
+.timeCard {
+    display : flex;
+    align-items : center;
+}

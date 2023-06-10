@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.courseContainer {
+    display : flex;
+    flex-direction : row;
+    justify-content : space-between;
+    align-items : center;
+}
+.cardContainer {
+    display : flex;
+    align-items : center;
+}
+.listContainer {
+    display : flex;
+    flex-wrap : wrap;
+}
+.item {
+    background-color : #1e293b;
+    margin-left : 10px;
+    padding : 10px;
+    border-radius : 10px;
+    color : #ffffff;
+}
